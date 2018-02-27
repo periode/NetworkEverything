@@ -35,7 +35,7 @@ _
 	  your shelf yet
 	- I have reduced the amount of reading from Making Things Talk
 - **Read**
-	- Linked, Chapters 1-3
+	- Linked, Chapters 1-3 (Graph Theory)
 	-	Making Things Talk 
 		- pp xi-xviii
 		- pp 1-5
@@ -337,20 +337,20 @@ Homework (tentative):
 
 #### Tentative order of topics
 
-- Serial communication (Synchronous and  Asynchronous 
+- Serial communication (Synchronous and  Asynchronous) ### DONE
 
-- Wireless (Serial, point - to - point)
+- Wireless (Serial, point - to - point) ### DONE
 
-- Ethernet and internet
-
-- WiFi
+- WiFi ### DONE
 
 - Raspberry Pi
+
+- Ethernet and internet
 
 - Linux command line
 
 - Python, SSH, cURL
 
-- Debugging Ethernet with wireshark
+- Debugging Ethernet with wireshark (Herbivore?)
 
 - Xbee

@@ -92,6 +92,7 @@ shows how to use the `analogWrite()` function
 		tutorial
 	- Watch
 		[this](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction) Khan Academy Introduction to number systems and binary
+(PIERRE: basic arduino introduction)
 
 #### Tuesday 30 January 2018 9am - 10:15 
 - Review analog/digial/input/output
@@ -106,7 +107,8 @@ shows how to use the `analogWrite()` function
 - Find an example of a **useful** IoT device  
 - Find an example of a **useless** IoT device  
 - Write a post in your repository. Provide links to these devices and discuss
-your reasons   
+your reasons
+(PIERRE: it seems all IoT devices are useless - but students would theoretically be able to build a coffee machine connected to a smartphone on a local network)
 
 **Update**  
 I've assigned some reading for next Tuesday. You may want to get started now.
@@ -200,6 +202,7 @@ See further below.
 **Read**  
 
 - Designing Connected Products chapter 3
+(PIERRE: apparently this was a very good, practical reading!)
 
 **Do**
 
@@ -217,7 +220,9 @@ See further below.
 
 - Upload and run the WiFi101 ScanNetworks example
 	1. Open Arduino -> File -> Examples -> Wifi101 -> ScanNetworks
-	2. Upload and run. You should see some WiFi networks  
+	2. Upload and run. You should see some WiFi networks 
+	
+(PIERRE: wifi101 allows you to connect to wifis + deal with HTTP requests)
 
 #### Thursday February 8 9am - 11:40 (tentative)
 
@@ -279,6 +284,8 @@ fits this story.
 
 * Document your work in a file in your github repository
 
+(PIERRE: we went through those in class on Feb 28 - all are > 90% functional)
+
 **Introduction to Construction Techniques**
 
 Build the circuit bellow on a perforated breadboard as we discussed in
@@ -337,13 +344,19 @@ Homework (tentative):
 
 #### Tentative order of topics
 
+##### COVERED
+
 - Serial communication (Synchronous and  Asynchronous 
 
 - Wireless (Serial, point - to - point)
 
-- Ethernet and internet
+- Xbee
 
 - WiFi
+
+##### NOT YET COVERED
+
+- Ethernet and internet
 
 - Raspberry Pi
 
@@ -352,5 +365,3 @@ Homework (tentative):
 - Python, SSH, cURL
 
 - Debugging Ethernet with wireshark
-
-- Xbee
